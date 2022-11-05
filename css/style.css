@@ -1,0 +1,39 @@
+p {
+    font-size: 18px;
+    color: rgb(48, 43, 43);
+}
+
+h1 { 
+    font-size: 30px;
+    padding-top: 0%;
+    background:linear-gradient(transparent 75%,rosybrown 50%);
+}
+
+time{
+    font-size: 10px;
+    margin-left: 85%;
+}
+
+.content {
+    background-color: #fcc;
+    width: 60%;
+    margin: auto;
+    border: 1px solid #d1d1d1;
+    padding: 50px;
+}
+
+.sample {
+    font-weight: bold;
+}
+
+button {
+    font-size:15px;
+    width: 100%;
+    background-color: rosybrown;
+    color: antiquewhite;
+    padding: 15px;
+    border: 0;
+    border-radius: 3px;
+    box-shadow: 0 0 8px rgba(0,0,0,.4);
+
+    
